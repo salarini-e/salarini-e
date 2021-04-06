@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salarini-e
 - 👀 I’m interested in Python and Clojure development!
-- 🌱 I’m currently learning more about networking security.
+- 🌱 I’m currently developing a open source ticketing system.
 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
