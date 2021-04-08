@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @salarini-e
-- 👀 I’m interested in Python and Clojure development!
+- 👋 Hi! 👀 I’m interested in Python and Clojure development!
 - 🌱 I’m currently developing a open source ticketing system, but this is a secret for now.
 
 <!--- - 💞️ I’m looking to collaborate on ...
