@@ -1,16 +1,16 @@
 
-# Hello, my dear! I'm a Python developer. <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+# Hello, my dear!
 
 #### 👀 Looking for my main skills? So is...
 <p>
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/flask.png"/>
+    1. <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+    2. <img src="https://img.icons8.com/color/48/000000/django.png"/>
+    3. <img src="https://img.icons8.com/color/48/000000/flask.png"/>
 </p>
 
 #### Another skills
 <p>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>    
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
