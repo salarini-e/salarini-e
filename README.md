@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>  
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/> 
 </p>
-
+</br>
 [>> My Git Page](https://salarini-e.github.io) (It's not really ready, I just did a test.)
 
 <!--- - 💞️ I’m looking to collaborate on ...
