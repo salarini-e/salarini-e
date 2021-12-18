@@ -2,12 +2,7 @@
 # Hello, my dear! I'm a Python developer. <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
 #### 👀 Looking for my main skills?
-<p> 
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
-</p>
-<p> 
-    <img src="https://img.icons8.com/color/48/000000/flask.png"/>      
-</p>
+<p> So... is <img src="https://img.icons8.com/color/48/000000/django.png"/> and img src="https://img.icons8.com/color/48/000000/flask.png"/></p>
 
 #### Another skills
 <p>
