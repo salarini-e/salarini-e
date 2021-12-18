@@ -1,15 +1,18 @@
 
 # Hello, my dear! I'm a Python developer. <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 
-#### 👀 Looking for my main skills? SO is...
-<p><img src="https://img.icons8.com/color/48/000000/django.png"/></p>
-<p>and</p>
-<p><img src="https://img.icons8.com/color/48/000000/flask.png"/></p>
+#### 👀 Looking for my main skills? So is...
+<p>
+    <img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/flask.png"/>
+</p>
 
 #### Another skills
 <p>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>     
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>  
