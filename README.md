@@ -3,9 +3,9 @@
 
 #### 👀 Looking for my main skills? So is...
 <p>
-    1. <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-    2. <img src="https://img.icons8.com/color/48/000000/django.png"/>
-    3. <img src="https://img.icons8.com/color/48/000000/flask.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/flask.png"/>&nbsp;&nbsp;
 </p>
 
 #### Another skills
