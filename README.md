@@ -6,7 +6,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/flask.png"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/office/16/000000/react.png"/>&nbsp;&nbsp;    
+    <img src="https://img.icons8.com/office/48/000000/react.png"/>&nbsp;&nbsp;    
      <img src="https://img.icons8.com/color/48/000000/selenium.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/>&nbsp;&nbsp;
 </p>
