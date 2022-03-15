@@ -18,12 +18,11 @@
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/>&nbsp;&nbsp;      
     <img src="https://img.icons8.com/color/48/000000/flask.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/officexs/48/000000/react.png"/>&nbsp;&nbsp;            
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/> 
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 </br>
 <!--- My Git Page -> https://salarini-e.github.io  - It's not really ready, I just did a test.
-
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/> 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
