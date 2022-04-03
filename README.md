@@ -21,8 +21,8 @@ Olá, eu sou Eduardo Salarini! 🇧🇷
 Sou apaixonado por ciência e desenvolvimento de software, especialista na criação de sistemas web com Python. 
 Fascinado por computação e quebra-cabeças desde criança.
 ```
-<b align="center">Procurando pelas minhas principais habilidades?? 👀 <br>
- Então, elas são...
+#### Procurando pelas minhas principais habilidades?? 👀 <br>
+#### Então, elas são...
 <p>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;&nbsp;
@@ -33,7 +33,7 @@ Fascinado por computação e quebra-cabeças desde criança.
 
 </p>
 
-Outras habilidades
+#### Outras habilidades
 <p>    
     <img src="https://img.icons8.com/color/48/000000/selenium.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/>&nbsp;&nbsp;      
