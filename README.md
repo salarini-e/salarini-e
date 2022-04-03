@@ -21,8 +21,8 @@ Olá, eu sou Eduardo Salarini! 🇧🇷
 Sou apaixonado por ciência e desenvolvimento de software, especialista na criação de sistemas web com Python. 
 Fascinado por computação e quebra-cabeças desde criança.
 ```
-####  Procurando pelas minhas principais habilidades?? 👀 <br>
-#### Então, elas são...
+<h4>Procurando pelas minhas principais habilidades?? 👀 <br>
+Então, elas são...</h4>
 <p>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;&nbsp;
@@ -33,7 +33,7 @@ Fascinado por computação e quebra-cabeças desde criança.
 
 </p>
 
-#### Outras habilidades
+<h4>Outras habilidades</h4>
 <p>    
     <img src="https://img.icons8.com/color/48/000000/selenium.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/>&nbsp;&nbsp;      
@@ -42,9 +42,14 @@ Fascinado por computação e quebra-cabeças desde criança.
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 </br>
-## Meus dados no Github
+<h4>Meus dados no Github</h4>
 
 <!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarini-e&show_icons=true&theme=tokyonight)
+</span> -->
+<!--- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarini-e&show_icons=true&theme=tokyonight) --->
+
+[![salarini-e](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/salarini-e/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&layout=compact&theme=tokyonight) -->
 
 <!--- My Git Page -> https://salarini-e.github.io  - It's not really ready, I just did a test.
