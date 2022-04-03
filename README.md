@@ -45,11 +45,6 @@ Fascinado por computação e quebra-cabeças desde criança.
 ## Meus dados no Github
 
 <!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarini-e&show_icons=true&theme=tokyonight)
-[![salarini-e](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/salarini-e/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&layout=compact&theme=tokyonight) -->
 
 <!--- My Git Page -> https://salarini-e.github.io  - It's not really ready, I just did a test.
