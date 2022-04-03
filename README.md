@@ -1,6 +1,6 @@
 
-# Hello, my dear!
-
+# Olá! Seja bem vindo!
+ <img src="https://data.whicdn.com/images/284785778/original.gif"/>
 #### 👀 Looking for my main skills? So is...
 <p>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
