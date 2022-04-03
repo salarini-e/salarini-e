@@ -1,7 +1,26 @@
 
 # Olá! Seja bem vindo!
- <img src="https://data.whicdn.com/images/284785778/original.gif"/>
-#### 👀 Looking for my main skills? So is...
+ <h4 align="center">
+ 
+<img src="https://data.whicdn.com/images/284785778/original.gif"/>
+
+<hr>
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/salarini-e)](https://www.facebook.com/profile.php?id=100075802581377)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/salarini-e)](https://www.instagram.com/esalarini/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/salarini-e)](https://www.linkedin.com/in/lu%C3%ADs-eduardo-cordeiro-salarini-a6a97313b/)
+</h4>
+<h3 align="center">  <br>
+
+Olá, eu sou Eduardo Salarini! 🇧🇷
+<br>
+
+</h3>
+
+```
+Sou apaixonado por ciência e desenvolvimento de software, especialista na criação de sistemas web com Python. Fascinado por computação e quebra-cabeças desde criança.
+```
+#### 👀 Procurando pelas minhas principais habilidades?? Então, elas são...
 <p>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;&nbsp;
@@ -12,7 +31,7 @@
 
 </p>
 
-#### Another skills
+#### Outras habilidades
 <p>    
     <img src="https://img.icons8.com/color/48/000000/selenium.png"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/numpy.png"/>&nbsp;&nbsp;      
@@ -21,6 +40,16 @@
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 </br>
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salarini-e&show_icons=true&theme=tokyonight)
+[![salarini-e](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/salarini-e/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salarini-e&layout=compact&theme=tokyonight) -->
+
 <!--- My Git Page -> https://salarini-e.github.io  - It's not really ready, I just did a test.
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/> 
 💞️ I’m looking to collaborate on ...
