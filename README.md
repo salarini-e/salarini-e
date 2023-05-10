@@ -1,8 +1,7 @@
 
 # Seja bem vindo!
  <h4 align="center">
- 
-<img src="https://data.whicdn.com/images/284785778/original.gif"/>
+
 
 <hr>
 
