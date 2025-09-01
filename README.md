@@ -21,10 +21,8 @@ Sou Eduardo Salarini, desenvolvedor com experiência em projetos open source, co
 - Documentação de software
 - Boas práticas de engenharia de software
 
+<div align="center">
 Sempre aberto para novas ideias, colaborações e desafios!
----
+</div>
 ###
-
-
-## Sobre mim
 
