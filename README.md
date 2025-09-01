@@ -8,7 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salarini-e&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
-Sou Eduardo Salarini, desenvolvedor com experiência em projetos open source, colaborando com diversas soluções inovadoras e tecnológicas.
+<br clear="both">
+
+Sou *Eduardo Salarini*, desenvolvedor com experiência em projetos open source, colaborando com diversas soluções inovadoras e tecnológicas.
 
 - 💻 Desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.
 - 🚀 Contribuo para mais de 70 repositórios públicos, sempre buscando compartilhar conhecimento e aprender com a comunidade.
